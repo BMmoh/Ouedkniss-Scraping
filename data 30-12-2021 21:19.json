@@ -1,0 +1,95 @@
+{
+  "data": {
+    "stores": {
+      "data": [
+        {
+          "id": "2560",
+          "name": "Hamza Electronique  ",
+          "categories": [
+            {
+              "id": "1",
+              "name": "T\u00e9l\u00e9phones",
+              "slug": "telephones"
+            },
+            {
+              "id": "7",
+              "name": "Accessoires de t\u00e9l\u00e9phones",
+              "slug": "telephonie_accessoires"
+            },
+            {
+              "id": "146",
+              "name": "Electronique & Electrom\u00e9nager",
+              "slug": "electronique"
+            },
+            {
+              "id": "239",
+              "name": "Informatique",
+              "slug": "informatique"
+            },
+            {
+              "id": "459",
+              "name": "Services",
+              "slug": "services"
+            },
+            {
+              "id": "531",
+              "name": "Loisirs & Divertissements",
+              "slug": "loisirs_divertissements"
+            }
+          ],
+          "mainLocation": {
+            "id": "212682",
+            "worktime": null,
+            "phones": [
+              "+213791649132"
+            ],
+            "emails": [
+              "v-hamza@hotmail.fr"
+            ],
+            "socials": [],
+            "location": {
+              "id": "214702",
+              "address": "Rue 09, Beaulieu, Oued Smar",
+              "lat": 36.71484347,
+              "lng": 3.15924022
+            }
+          }
+        },
+        {
+          "id": "10850",
+          "name": "Adlene Electronique Auto ",
+          "categories": [
+            {
+              "id": "46",
+              "name": "Pi\u00e8ces d\u00e9tach\u00e9es",
+              "slug": "pieces_detachees"
+            },
+            {
+              "id": "459",
+              "name": "Services",
+              "slug": "services"
+            }
+          ],
+          "mainLocation": {
+            "id": "220513",
+            "worktime": null,
+            "phones": [
+              "+213771027673"
+            ],
+            "emails": [],
+            "socials": [],
+            "location": {
+              "id": "230364",
+              "address": "soumaa",
+              "lat": null,
+              "lng": null
+            }
+          }
+        }
+      ],
+      "paginatorInfo": {
+        "lastPage": 1
+      }
+    }
+  }
+}
