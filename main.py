@@ -110,7 +110,7 @@ print(len(stors))
 # print(json.loads(response.text))
 
 # print(map(lambda s: s.get('email')))
-today = datetime.datetime.now().strftime("%d-%m-%Y %H:%M")
+today = datetime.datetime.now().strftime("%d-%m-%Y %H-%M")
 with open(f'data/data {today}.json', 'w') as file:
   file.write(json.dumps(stors))
 
