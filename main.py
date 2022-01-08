@@ -111,7 +111,7 @@ print(len(stors))
 
 # print(map(lambda s: s.get('email')))
 today = datetime.datetime.now().strftime("%d-%m-%Y %H:%M")
-with open(f'data {today}.json', 'w') as file:
+with open(f'data/data {today}.json', 'w') as file:
   file.write(json.dumps(stors))
 
 print(len(stors), ' Done...')
